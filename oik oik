@@ -1,0 +1,51 @@
+#html
+#first page
+
+<!doctype html>
+<html lang="en">
+<head>
+	<title>oink oink></title>
+<head>
+<body>
+	<h1>Main page</h1>
+	<p>I'm Danil, a beginner developer.<p>
+	<a href="https://www.youtube.com/watch?v=SKRydSA2bYA">
+	HTML Basics
+	</a>
+	<br>
+	<a
+		href="DOBAVKA.html"
+		target="_blank">
+		Another useful page
+	</a>
+	<br>
+	<img 
+		src="C:\Users\danya\Desktop\HTML+CSS\dedylya22.png" 
+		alt="Ганзенко Данил"
+		width="400px">
+ 		</body>
+	</html>
+  
+ #second page
+  
+  <!doctype html>
+<html lang="en">
+<head>
+<title>"oink oink"</title>
+</head>
+<body>
+<h1>oink oink</h1>
+<p>If you do not understand, then this is page 2!))</p>
+<a href="https://www.youtube.com/watch?v=chT3O9hIFvM">Here is another helpful video</a>
+<br>
+<img 
+src="C:\Users\danya\Desktop\HTML+CSS\elf22.png"
+alt="Elf"
+width="400px">
+</body>
+</html>
+
+
+
+  
+  
